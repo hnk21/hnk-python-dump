@@ -49,6 +49,6 @@ Last updated: 2026-08-17
 
 ---
 
-## jupyter-notebooks
+## ipynb-notebooks
 
 Bunch of .ipynb files for learning
