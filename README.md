@@ -1,9 +1,7 @@
-# hnk-python-tools
-Personal repository of productivity related scripts made using Python.
+# hnk-python-dump
+Personal repository of Python code.
 
-At the current state, all of the scripts are developed separately within their own folders, for ease of maintenance and personally for more modular use cases. 
-
-Last updated: 2026-03-22
+Last updated: 2026-08-17
 
 ## excel-tools
 ### 01_get_info.py
@@ -48,3 +46,9 @@ Last updated: 2026-03-22
 ### 04_rename_with_file.py
 - File renamer script that uses an input file.
 - Input file is a mapping file that contains two columns: curr_file_name, new_file_name
+
+---
+
+## jupyter-notebooks
+
+Bunch of .ipynb files for learning
