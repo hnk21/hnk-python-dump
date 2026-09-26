@@ -4,6 +4,7 @@ Personal repository of Python code.
 Last updated: 2026-08-17
 
 ## excel-tools
+
 ### 01_get_info.py
 - Looks into a user-defined target folder, and gets the number of columns and rows for each Excel file (.xlsx / .csv).
 - The result is saved into a .txt file.
